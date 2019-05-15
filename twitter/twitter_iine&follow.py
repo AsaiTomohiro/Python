@@ -1,10 +1,10 @@
 import tweepy
 
 # 以下4つ「xxxxx」を、先ほど控えた値で書き換える。
-consumer_key = 'fKZ3cldhN5CxZrmtQsSsdAsVY'
-consumer_secret = 'be8WrdAd9LvTfjpnDXL81o7GJtjMlS98hMRpWhJBmLSl3jRisD'
-access_token_key = '1120628485158871040-PQd3lNIUxV8fyhNCcNI6RV9pYuHUfR'
-access_token_secret = 'x3jhRRgiWWlSfsaQb69NNHqytiDrqpxGEGK9GAzQ9qEBn'
+consumer_key = ''
+consumer_secret = ''
+access_token_key = ''
+access_token_secret = ''
 
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
