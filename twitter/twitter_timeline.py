@@ -1,10 +1,10 @@
 import tweepy
 
 # 先ほど取得した各種キーを代入する
-CK='fKZ3cldhN5CxZrmtQsSsdAsVY'
-CS='be8WrdAd9LvTfjpnDXL81o7GJtjMlS98hMRpWhJBmLSl3jRisD'
-AT='1120628485158871040-PQd3lNIUxV8fyhNCcNI6RV9pYuHUfR'
-AS='x3jhRRgiWWlSfsaQb69NNHqytiDrqpxGEGK9GAzQ9qEBn'
+CK=''
+CS=''
+AT=''
+AS=''
 
 
 auth = tweepy.OAuthHandler(CK, CS)
