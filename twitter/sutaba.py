@@ -7,10 +7,10 @@ from collections import defaultdict
 import numpy as np
 
 KEYS = { # 自分のアカウントで入手したキーを下記に記載
-        'consumer_key':'fKZ3cldhN5CxZrmtQsSsdAsVY',
-        'consumer_secret':'be8WrdAd9LvTfjpnDXL81o7GJtjMlS98hMRpWhJBmLSl3jRisD',
-        'access_token':'1120628485158871040-PQd3lNIUxV8fyhNCcNI6RV9pYuHUfR',
-        'access_secret':'x3jhRRgiWWlSfsaQb69NNHqytiDrqpxGEGK9GAzQ9qEBn'
+        'consumer_key':'',
+        'consumer_secret':'',
+        'access_token':'',
+        'access_secret':''
        }
 
 twitter = None
