@@ -1,6 +1,6 @@
 # Flickr APIの設定(要書き換え)
-key = "03c433b2f94f63148a65f4f0a28f223b"
-secret = "ffd97e550179385d"
+key = ""
+secret = ""
 
 # ライブラリを取り込む
 import flickr_downloader as fli
