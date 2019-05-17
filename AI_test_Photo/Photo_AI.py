@@ -1,5 +1,5 @@
-#key: 03c433b2f94f63148a65f4f0a28f223b
-#Secret: ffd97e550179385d
+#key: 
+#Secret:
 
 
 from PIL import Image
