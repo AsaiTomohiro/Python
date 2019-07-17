@@ -6,13 +6,12 @@ from datetime import timedelta #※4
 
 #各キーを取得 ※1
 
-consumer_key='fKZ3cldhN5CxZrmtQsSsdAsVY'
+consumer_key=
 
-consumer_secret='be8WrdAd9LvTfjpnDXL81o7GJtjMlS98hMRpWhJBmLSl3jRisD'
+consumer_secret=
+access_token=
 
-access_token='1120628485158871040-PQd3lNIUxV8fyhNCcNI6RV9pYuHUfR'
-
-access_token_secret='x3jhRRgiWWlSfsaQb69NNHqytiDrqpxGEGK9GAzQ9qEBn'
+access_token_secret=
 
 
 
