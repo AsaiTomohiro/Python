@@ -9,10 +9,10 @@ import  tweepy
 
 
 
-Consumer_key = 'fKZ3cldhN5CxZrmtQsSsdAsVY'
-Consumer_secret = 'be8WrdAd9LvTfjpnDXL81o7GJtjMlS98hMRpWhJBmLSl3jRisD'
-Access_token = '1120628485158871040-PQd3lNIUxV8fyhNCcNI6RV9pYuHUfR'
-Access_secret = 'x3jhRRgiWWlSfsaQb69NNHqytiDrqpxGEGK9GAzQ9qEBn'
+Consumer_key =
+Consumer_secret = 
+Access_token = 
+Access_secret = 
 
 #認証
 auth = tweepy.OAuthHandler(Consumer_key, Consumer_secret)
