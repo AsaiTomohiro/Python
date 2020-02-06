@@ -4,3 +4,5 @@ TextGeneraterの使い方
 
 tokutei_kakiで必要なユーザーのツイートデータ取得
 re_1で不要な情報を削除
+
+#tokutei.pyで可能
